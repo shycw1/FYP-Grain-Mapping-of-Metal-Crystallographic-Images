@@ -1,1 +1,1 @@
-# Final-Year-Project---Grain-Mapping-of-Metal-Crystallographic-Images
+# Final Year Project: Grain Mapping of Metal Crystallographic Images
